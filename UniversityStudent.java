@@ -1,4 +1,4 @@
-class UniversityStudent extends Student{
+public class UniversityStudent extends Student{
     private int level;
 
     UniversityStudent(){

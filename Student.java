@@ -1,4 +1,4 @@
-class Student{
+public class Student{
  protected String name;
 
     Student(){
